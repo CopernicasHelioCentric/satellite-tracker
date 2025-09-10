@@ -1,0 +1,5 @@
+echo "# Backend (Spring Boot)" > Backend/README.md
+echo "# Frontend (CesiumJS + satellite.js)" > Frontend/README.md
+echo "# Documentation (diagrams, notes)" > Docs/README.md
+
+
